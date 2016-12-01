@@ -1,3 +1,5 @@
+[![Build Status] (https://travis-ci.org/cs360f16/WillametteShippingCalculator-Group3.svg)](https://travis-ci.org/cs360f16/WillametteShippingCalculator-Group3)
+
 WillametteShippingCalculator
 ============================
 * Items (Cost, Weight, Title, fs)
